@@ -24,8 +24,8 @@
  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 
 # 📊 Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinmeil&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vinmeil&theme=bear&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vinmeil&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinmeil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vinmeil&icon=5&color=1)](https://visitcount.itsvg.in)
