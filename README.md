@@ -26,6 +26,7 @@
 # 📊 Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinmeil&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinmeil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinmeil)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vinmeil&icon=5&color=1)](https://visitcount.itsvg.in)
