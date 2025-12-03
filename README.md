@@ -1,12 +1,3 @@
-### Hi there, I'm Vincent! 👋
-
-- 🔭 I’m currently working on Web Apps
-- 🌱 I’m currently learning Mobile App Development & Cloud Computing
-- 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with Everything
-- 📫 How to reach me: Email me at vincent.wesley.liem@gmail.com or DM me on discord @vinmeil
-
-
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vincent.vwl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-wesley-liem-694a7124a) 
 
